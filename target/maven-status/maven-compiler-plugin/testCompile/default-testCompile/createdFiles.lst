@@ -1,0 +1,9 @@
+com\inetbanking\pageobjects\Addcustomerpage.class
+com\inetbanking\pageobjects\Loginpage.class
+com\inetbanking\testcases\TC_Addcustomer.class
+com\inetbanking\testcases\Base_Class.class
+com\inetbanking\testcases\Tc01_inetBanking.class
+com\inetbanking\testcases\Tc_02_inetBanking.class
+com\inetbanking\utilities\config_utitilities.class
+com\inetbanking\utilities\Extent_Reports.class
+com\inetbanking\utilities\xlutils.class
